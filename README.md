@@ -38,11 +38,12 @@ Chart Preview
 ## Configurable Parameters
 Users can adjust the following parameters inside TradingView's settings panel:
 
-EMA Length: Default - 200. Lookback period for the 3-minute macro moving average.
-RSI Time Frame: Default - 3, 5, 10. Multi-timeframe intervals for RSI confirmation.
-RSI Length: Default - 7, 9, 12. Lookback period for RSI.
-MACD Time Frame: Default - 1. Lookback timeframe for the MACD line.
-Conversion Line Length: Default - 9. Lookback period for conversion line.
+- **EMA Length**: Default - 200. Lookback period for the 3-minute macro moving average.
+- **RSI Time Frame**: Default - 3, 5, 10. Multi-timeframe intervals for RSI confirmation.
+- **RSI Length**: Default - 7, 9, 12. Lookback period for RSI.
+- **MACD Time Frame**: Default - 1. Lookback timeframe for the MACD line.
+- **Conversion Line Length**: Default - 9. Lookback period for conversion line.
+
 --
 
 How to Install & Use in TradingView
